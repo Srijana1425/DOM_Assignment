@@ -6,6 +6,7 @@
 ## Making scrolling sidebar
 <img width="770" alt="ass8 1-after" src="https://user-images.githubusercontent.com/97457589/216288332-d845b9e5-563c-45f0-b789-86659bb01241.png">
 
+# Code
 ```
 // Adding scroll in sidebar
 
@@ -40,6 +41,7 @@ aside.appendChild(addP);
 ## Change background
 ![ass8 2-after](https://user-images.githubusercontent.com/97457589/216290355-24bbaf9b-2e9f-4db0-90a3-d1be24e2ae4a.png)
 
+# Code
 ```
 let bgc = document.querySelector("body");
 bgc.style.background = "#fff";
@@ -50,6 +52,7 @@ bgc.style.background = "#fff";
 ## Create responsive nav menu
 ![ass8 3-after](https://user-images.githubusercontent.com/97457589/216289616-948e8702-80e2-41ac-97ed-5cefe9c31056.png)
 
+# Code
 ```
 // Nav menu
 
