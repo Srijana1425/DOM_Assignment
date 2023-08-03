@@ -1,10 +1,10 @@
 # dom_assignment
 
-## Question 1 Main Preview
+## Answer 1 Main Preview
 
 ![orignal](https://user-images.githubusercontent.com/97457589/215492345-0eb81740-876f-4512-83cd-e868535c28de.png)
 
-## Question 1
+##  Answer  1
 ### Task 1
 ### Adding [hire me] button inside nav menu, change nav [Contact] buuton to [Projects] and Removeing footer social icons.
 ![task1Output](https://user-images.githubusercontent.com/97457589/215341122-8a0e09d8-98eb-4a02-8ed0-129a22e6e61b.png)
@@ -132,10 +132,10 @@ supportMe.appendChild(supportMeBtn);
 
 ```
 
-## Questin 2 Main Preview
+##  Answer  2 Main Preview
 ![orignal](https://user-images.githubusercontent.com/97457589/215530350-ee60d7cf-1985-4135-9a71-0fa3330d7be9.png)
 
-## Question 2
+##  Answer  2
 ### Task 1
 ### Changing Accordian background color.
 ![task1Output](https://user-images.githubusercontent.com/97457589/215530564-74092f46-ed5d-4c45-b390-cbebaa1cf45e.png)
