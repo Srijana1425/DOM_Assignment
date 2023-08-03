@@ -9,6 +9,7 @@
 ### Adding [hire me] button inside nav menu, change nav [Contact] buuton to [Projects] and Removeing footer social icons.
 ![task1Output](https://user-images.githubusercontent.com/97457589/215341122-8a0e09d8-98eb-4a02-8ed0-129a22e6e61b.png)
 
+# Code
 ```
 // Add Hire me inside nav menu
 
@@ -33,6 +34,7 @@ document.querySelector("footer ul").style.display = "none";
 ### Changeing Header search field Placeholder text and hide [Hire Me]  Button from nav menu.
 ![task2Output](https://user-images.githubusercontent.com/97457589/215342512-c72050e0-1ff9-477a-944c-a30e011f351e.png)
 
+# Code
 ```
 // Changeing Search field Placeholder
 
@@ -49,6 +51,7 @@ removeItems.removeChild(removeItems.children[3]);
 ### Changeing hero paragraph span text and display footer social icons.
 ![task3Output](https://user-images.githubusercontent.com/97457589/215502198-8b2bf6b0-8fca-443b-a61f-b7d049586798.png)
 
+# Code
 ```
 // Changeing Hero paragraph span text 
 
@@ -72,6 +75,7 @@ document.querySelector("footer ul").style.visibility = "visible";
 ### Changeing hero avtar image and restore placeholder text.
 ![task4Output](https://user-images.githubusercontent.com/97457589/215511263-5b0bbcb6-f9a3-4159-beb8-0c1a6194b1c1.png)
 
+# Code
 ```
 // Change avtar image from hero section
 
@@ -92,6 +96,7 @@ inputTextRestore.placeholder = "Search";
 ### Restore paragraph span text, Hero avtar image and adding a [Support Me] Button.
 ![task5Output](https://user-images.githubusercontent.com/97457589/215519183-a354b270-38a6-4a39-973b-c5f753f2ec2a.png)
 
+# Code
 ```
 
 // Restore paragraph span text as original
@@ -135,6 +140,7 @@ supportMe.appendChild(supportMeBtn);
 ### Changing Accordian background color.
 ![task1Output](https://user-images.githubusercontent.com/97457589/215530564-74092f46-ed5d-4c45-b390-cbebaa1cf45e.png)
 
+# Code
 ```
 // Change H3 background color
 
@@ -160,6 +166,7 @@ lastitems.innerText = "Project";
 ### Adding accordian
 ![task2Output](https://user-images.githubusercontent.com/97457589/215682917-b24980bd-ca5f-4a24-9477-32c6417262a6.png)
 
+# Code
 ```
 // Adding accordian
 
