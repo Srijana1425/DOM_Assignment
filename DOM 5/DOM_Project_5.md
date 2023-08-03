@@ -6,6 +6,7 @@
 ### Add a button inside header [Pro Subscription], adding a recipes card and change copyright text
 ![DOM P2 SS](https://user-images.githubusercontent.com/97457589/215744447-a6172f77-9ad4-4709-9adf-7cfc6d5f2e32.png)
 
+# Code
 ```
 // Adding button [Pro Subscription]
 
@@ -74,6 +75,6 @@ cptext.innerText = "Ravikant K.";
 ```
 
 # OUTPUT
-![output](https://user-images.githubusercontent.com/97457589/215745032-03cbec88-f1f2-437f-a6c0-1b6aefd8d26d.png)
+![output](https://github.com/Srijana1425/DOM_Assignment/blob/main/DOM%205/Output/Screenshot%20Dom5.png)
 
 
