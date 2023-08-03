@@ -3,9 +3,10 @@
 ![orignal](https://user-images.githubusercontent.com/97457589/215706865-f36dc645-3202-41c4-9664-bc9a0017cda2.png)
 
 # Task
-### Change card stats background Color
+### Change card status background Color
 ![DOM P1 SS](https://user-images.githubusercontent.com/97457589/215707532-8d4ad400-ccb6-43de-9a03-96f28f85801d.png)
 
+# Code
 ```
 // barbarian
 
