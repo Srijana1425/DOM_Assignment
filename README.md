@@ -3,8 +3,8 @@
 |-----------------|----------------|
 |DOM 1_2_3        |    [Link](https://github.com/Srijana1425/DOM_Assignment/tree/main/DOM%201_2_3)    |
 |DOM 4            |    [Link](https://github.com/Srijana1425/DOM_Assignment/tree/main/DOM%204)    |
-|DOM 5            |   [Link]()    |
-|DOM 6            |   [Link]()    |
-|DOM 7            |   [Link]()    |
-|DOM 8            |   [Link]()    |
-|DOM 9            |   [Link]()    |
+|DOM 5            |   [Link](https://github.com/Srijana1425/DOM_Assignment/tree/main/DOM%205)    |
+|DOM 6            |   [Link](https://github.com/Srijana1425/DOM_Assignment/tree/main/DOM%206)    |
+|DOM 7            |   [Link](https://github.com/Srijana1425/DOM_Assignment/tree/main/DOM%207)    |
+|DOM 8            |   [Link](https://github.com/Srijana1425/DOM_Assignment/tree/main/DOM%208)    |
+|DOM 9            |   [Link](https://github.com/Srijana1425/DOM_Assignment/tree/main/DOM%209)    |
